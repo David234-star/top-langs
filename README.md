@@ -99,7 +99,7 @@ GITHUB_TOKEN=your_token_here
 Your API will be available at:
 
 ```
-https://your-app.up.railway.app/top-langs?username=YOUR_USERNAME
+https://top-langs-production.up.railway.app/top-langs?username=""
 ```
 
 ---
